@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/diamond -problem -solution/diamond -problem -solution.iml" filepath="$PROJECT_DIR$/diamond -problem -solution/diamond -problem -solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-sapale-programs.iml" filepath="$PROJECT_DIR$/.idea/java-sapale-programs.iml" />
     </modules>
   </component>
