@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Abstraction-class/Abstraction-class.iml" filepath="$PROJECT_DIR$/Abstraction-class/Abstraction-class.iml" />
       <module fileurl="file://$PROJECT_DIR$/diamond -problem -solution/diamond -problem -solution.iml" filepath="$PROJECT_DIR$/diamond -problem -solution/diamond -problem -solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/immutable-example/immutable-example.iml" filepath="$PROJECT_DIR$/immutable-example/immutable-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-sapale-programs.iml" filepath="$PROJECT_DIR$/.idea/java-sapale-programs.iml" />
     </modules>
   </component>

@@ -1,17 +1,21 @@
 import feature.Shape;
-import shapes.Circle;
+
 import shapes.Rectangle;
 
 public class main {
 
-    public static void main(String[] args) {
 
-        Shape Circle = new Circle();
-        Shape Rectangle = new Rectangle();
-        Circle.CalculateArea( 10.5f,12.5f);
-        Circle.displayArea();
-        Rectangle.CalculateArea(10,20);
-        Rectangle.displayArea();
+
+
 
     }
-}
+    /*    Shape circle = new Circle();
+    Shape rectangle = new Rectangle();
+        circle.calculateArea(10.2f, 5.1f);
+                Shape circle = new Circle(10.0f);
+                Shape rectangle = new Rectangle(10.0f, 20.0f);
+                circle.calculateArea();
+                circle.displayArea();
+                rectangle.calculateArea(10, 20);
+                rectangle.calculateArea();
+                rectangle.displayArea()*/
