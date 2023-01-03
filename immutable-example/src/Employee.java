@@ -1,9 +1,9 @@
 public class Employee {
 
-    private String name;
-    private int id;
-    private int salary;
-    private Address address;
+    private final String name;
+    private final int id;
+    private final int salary;
+    private final Address address;
 
     public Employee(String name, int id, int salary, Address address) {
         this.name = name;
@@ -13,7 +13,6 @@ public class Employee {
                 , address.city, address.postCode);//deep clone
 
     }
-
     public String getName() {
         return name;
     }

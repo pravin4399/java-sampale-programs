@@ -1,17 +1,14 @@
 public class main {
 
     public static void main(String[] args) {
-        String name1 = "mark ";
-        System.out.println(name1);
+     Employee employee = new Employee("pravin",101,1000,
+             new Address("A-106",null,null,"pune",412201));
 
-        String name2 = name1 + " Wrya ";
-        System.out.println(name2);
+        System.out.println(employee);
+        employee.getAddress().setCity("Mumbai");
+        System.out.println(employee);
+        System.out.println(employee);
 
-         if (name1 == name2){
-             System.out.println("some addresses in name1 and name2");
-         } else {
-             System.out.println("Different addresses in name1 and name2  ");
          }
-
     }
-}
+
