@@ -1,4 +1,4 @@
-package shapes;
+package abstraction.src.shapes;
 
 import features.Shape;
 
