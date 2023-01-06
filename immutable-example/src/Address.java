@@ -4,7 +4,6 @@ public class Address {
     String lane2;
     String city;
     int postCode;
-
     public Address(String flatNum, String lane1, String lane2, String city, int postCode) {
         this.flatNum = flatNum;
         this.lane1 = lane1;
@@ -63,4 +62,5 @@ public class Address {
                 ", postCode=" + postCode +
                 '}';
     }
+
 }
