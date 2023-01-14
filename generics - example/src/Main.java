@@ -27,6 +27,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
 
+
         //List of Integers
         List<Integer> myInt = new ArrayList<Integer>();
 
@@ -37,7 +38,7 @@ public class Main {
         Integer X = myInt.iterator().next();
 
         for (Integer integer :
-            myInt ) {
+                myInt ) {
             System.out.println(integer);
         }
 
@@ -51,11 +52,11 @@ public class Main {
         String name = myStringList.get(1);
 
         for (String string:
-           myStringList  ) {
+                myStringList  ) {
             System.out.println(string);
-            
+
         }
-            //List of random items
+        //List of random items
         List sampleList = new LinkedList();
         sampleList.add(100);
         sampleList.add("Pravin");

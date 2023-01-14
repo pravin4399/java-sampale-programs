@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/immutable-example/immutable-example.iml" filepath="$PROJECT_DIR$/immutable-example/immutable-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/inner-and-anoynmous-classes-example/inner-and-anoynmous-classes-example.iml" filepath="$PROJECT_DIR$/inner-and-anoynmous-classes-example/inner-and-anoynmous-classes-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-sapale-programs.iml" filepath="$PROJECT_DIR$/.idea/java-sapale-programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loose- coupling-Example/loose- coupling-Example.iml" filepath="$PROJECT_DIR$/loose- coupling-Example/loose- coupling-Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams-Example/streams-Example.iml" filepath="$PROJECT_DIR$/streams-Example/streams-Example.iml" />
     </modules>
   </component>
 </project>
