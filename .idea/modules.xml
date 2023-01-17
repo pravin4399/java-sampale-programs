@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Abstraction-class/Abstraction-class.iml" filepath="$PROJECT_DIR$/Abstraction-class/Abstraction-class.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-optional-example/Java-optional-example.iml" filepath="$PROJECT_DIR$/Java-optional-example/Java-optional-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pass - by - value/Pass - by - value.iml" filepath="$PROJECT_DIR$/Pass - by - value/Pass - by - value.iml" />
       <module fileurl="file://$PROJECT_DIR$/diamond -problem -solution/diamond -problem -solution.iml" filepath="$PROJECT_DIR$/diamond -problem -solution/diamond -problem -solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/enum-example/enum-example.iml" filepath="$PROJECT_DIR$/enum-example/enum-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics - example/generics - example.iml" filepath="$PROJECT_DIR$/generics - example/generics - example.iml" />

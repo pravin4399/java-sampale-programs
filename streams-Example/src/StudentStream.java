@@ -22,7 +22,7 @@ public class StudentStream {
     public static void main(String[] args) {
         List<Student> studentlist=new ArrayList<>();
 
-        studentlist.add(new Student("pravin",15,'A'));
+        studentlist.add(new Student("Pravin",15,'A'));
         studentlist.add(new Student("Kiran",1,'B'));
         studentlist.add(new Student("Anjali",11,'C'));
         studentlist.add(new Student("Rutuja",13,'D'));
